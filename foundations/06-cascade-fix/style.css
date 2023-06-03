@@ -29,22 +29,14 @@ body{
   font-size: 20px;
 }
 
-<<<<<<< HEAD
 .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
-=======
-.text.child {
-  color: red;
->>>>>>> 536e235 (Complete foundations exercise 6)
   font-size: 14px;
 }
 
 div.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
-<<<<<<< HEAD
   font-weight: 100;
-=======
->>>>>>> 536e235 (Complete foundations exercise 6)
 }
